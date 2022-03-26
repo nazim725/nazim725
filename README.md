@@ -1,5 +1,4 @@
 ### Hi there 👋,
-<span style="color:orange;">Word up</span>
 ## I am Muhammad Nazim Uddin 
 
 #### Full Stack Web Developer (MERN)
@@ -34,7 +33,7 @@ I'm a full-stack web developer(MERN) who is obsessed with creating error-free we
 - 👯 I’m looking to FullTime Job as MERN Stack Web Developer  
 
 [![](https://img.shields.io/badge/github-blue?style=for-the-badge)](https://github.com/nazim725)
-[![](https://img.shields.io/badge/github-blue?style=for-the-badge)](https://github.com/nazim725)
+[![](https://img.shields.io/badge/portfolio-blue?style=for-the-badge)](https://modest-varahamihira-7c5749.netlify.app/)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nazim725)                 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nazim-uddin-56378b203/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/hkajol.kalo.923)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://nazim725.github.io/Nazim-s-Portfolio/)  
