@@ -1,4 +1,5 @@
-### Hi there 👋, I am Nazim Uddin
+### Hi there 👋,
+## I am Muhammad Nazim Uddin
 #### Full Stack Web Developer
 ![Full Stack Web Developer](https://scontent.fcgp13-1.fna.fbcdn.net/v/t1.6435-9/68591101_2485993018310091_582343942670909440_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=174925&_nc_ohc=4J_1sx6iuZ4AX-Br_dy&tn=tpkkh9mJQpBHwlwy&_nc_ht=scontent.fcgp13-1.fna&oh=7ebe6d5aa0e233a9af23c045031bbfd7&oe=619F2869)
 
