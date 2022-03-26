@@ -12,10 +12,10 @@ I'm a full-stack web developer(MERN) who is obsessed with creating error-free we
 ✔ NextJS <br>
 ✔ Redux <br>
 ✔ JavaScript <br>
-✔ Bootstrap
-✔ Material UI
-✔ Tailwind CSS
-✔ Chaklra UI
+✔ Bootstrap <br>
+✔ Material UI <br>
+✔ Tailwind CSS <br>
+✔ Chaklra UI <br>
 ✔ HTML5 <br>
 ✔ CSS3 <br>
 ✔ NodeJS <br>
