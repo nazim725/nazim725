@@ -1,7 +1,7 @@
 ### Hi there 👋,
 ## I am Muhammad Nazim Uddin
 #### Full Stack Web Developer
-![Full Stack Web Developer](https://scontent.fcgp13-1.fna.fbcdn.net/v/t1.6435-9/68591101_2485993018310091_582343942670909440_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=174925&_nc_ohc=4J_1sx6iuZ4AX-Br_dy&tn=tpkkh9mJQpBHwlwy&_nc_ht=scontent.fcgp13-1.fna&oh=7ebe6d5aa0e233a9af23c045031bbfd7&oe=619F2869)
+
 
 I am a full stack web developer who is passionate about making error free website with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible.I am Strategic, goal oriented and always work with end goal in mind.I am comportable with front end technologies such React JS, React Hooks, React Router,HTML CSS, Javascript, Bootstrap,Tailwind,Material UI etc.
 And Backend technologies such as Node JS ,Express,Mongodb,Firebase etc.
