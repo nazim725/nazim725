@@ -1,4 +1,5 @@
 ### Hi there 👋,
+<span style="color:orange;">Word up</span>
 ## I am Muhammad Nazim Uddin 
 
 #### Full Stack Web Developer (MERN)
