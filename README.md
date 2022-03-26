@@ -7,6 +7,15 @@
 
 I'm a full-stack web developer(MERN) who is obsessed with creating error-free websites that satisfy every client. I'm passionate about learning and sharing what I've learned with as many people as possible. I am strategic, goal-oriented, and operate with the final objective in mind at all times. I'm familiar with front-end technologies like React JS, React Hooks, React Router, HTML CSS, Javascript, Bootstrap, Tailwind, Material UI, and others, as well as back-end technologies like Node JS, Express, Mongodb, and Firebase.
 
+---------------------------------------------------------------------------------------------------------------------------------------
+
+[![](https://img.shields.io/badge/github-blue?style=for-the-badge)](https://github.com/nazim725)
+[![](https://img.shields.io/badge/portfolio-blue?style=for-the-badge)](https://modest-varahamihira-7c5749.netlify.app/)
+[![](https://img.shields.io/badge/Facebook-orange?style=for-the-badge)](https://www.facebook.com/kajol.kalo.923)
+[![](https://img.shields.io/badge/LinkedIn-orange?style=for-the-badge)](https://www.linkedin.com/in/nazimuddin77/)
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
 ### Skills: <br>
 ✔ ReactJS <br>
 ✔ NextJS <br>
@@ -32,10 +41,7 @@ I'm a full-stack web developer(MERN) who is obsessed with creating error-free we
 - 🌱 I’m currently learning Node Js 
 - 👯 I’m looking to FullTime Job as MERN Stack Web Developer  
 
-[![](https://img.shields.io/badge/github-blue?style=for-the-badge)](https://github.com/nazim725)
-[![](https://img.shields.io/badge/portfolio-blue?style=for-the-badge)](https://modest-varahamihira-7c5749.netlify.app/)
-[![](https://img.shields.io/badge/Facebook-orange?style=for-the-badge)](https://www.facebook.com/kajol.kalo.923)
-[![](https://img.shields.io/badge/LinkedIn-orange?style=for-the-badge)](https://www.linkedin.com/in/nazimuddin77/)
+
 
 
 
