@@ -36,10 +36,12 @@ I'm a full-stack web developer(MERN) who is obsessed with creating error-free we
 ✔ figma <br>
 ✔ netlify <br>
 
-
+------------------------------------------------------------------------------------------------------------------------------
 - 🔭 I’m currently working on Red Positive (OPC) Private Ltd (INTERN). 
 - 🌱 I’m currently learning Node Js 
 - 👯 I’m looking to FullTime Job as MERN Stack Web Developer  
+
+-------------------------------------------------------------------------------------------------------------------------------
 
 
 
