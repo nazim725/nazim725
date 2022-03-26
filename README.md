@@ -3,14 +3,28 @@
 #### Full Stack Web Developer
 
 
-I am a full stack web developer who is passionate about making error free website with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible.I am Strategic, goal oriented and always work with end goal in mind.I am comportable with front end technologies such React JS, React Hooks, React Router,HTML CSS, Javascript, Bootstrap,Tailwind,Material UI etc.
-And Backend technologies such as Node JS ,Express,Mongodb,Firebase etc.
+I'm a full-stack web developer(MERN) who is obsessed with creating error-free websites that satisfy every client. I'm passionate about learning and sharing what I've learned with as many people as possible. I am strategic, goal-oriented, and operate with the final objective in mind at all times. I'm familiar with front-end technologies like React JS, React Hooks, React Router, HTML CSS, Javascript, Bootstrap, Tailwind, Material UI, and others, as well as back-end technologies like Node JS, Express, Mongodb, and Firebase.
 
-Skills:  ReactJS/NextJS/Redux/ JavaScript / HTML5 / CSS3/Node JS/Express/Mongodb/C#/SQL/firebase/figma/netlify
+Skills: 
+✔ ReactJS
+✔ NextJS
+✔ Redux
+✔ JavaScript
+✔ HTML5
+✔ CSS3
+✔ NodeJS
+✔ Express
+✔ Mongodb
+✔ C#
+✔ SQL
+✔ firebase
+✔ figma
+✔ netlify
 
-- 🔭 I’m currently working on this page. 
+
+- 🔭 I’m currently working on Red Positive (OPC) Private Ltd (INTERN). 
 - 🌱 I’m currently learning Node Js 
-- 👯 I’m looking to collaborate on Github 
+- 👯 I’m looking to FullTime Job as MERN Stack Web Developer  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nazim725)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nazim-uddin-56378b203/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/hkajol.kalo.923)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://nazim725.github.io/Nazim-s-Portfolio/)  
