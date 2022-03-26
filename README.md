@@ -1,11 +1,5 @@
 ### Hi there 👋,
-## I am Muhammad Nazim Uddin ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
+## I am Muhammad Nazim Uddin 
 
 #### Full Stack Web Developer (MERN)
 ![I am GitHub Readme Generator's creator](https://i.ibb.co/3zR8jZ2/git-banner.jpg)
