@@ -1,7 +1,7 @@
 ### Hi there 👋,
 ## I am Muhammad Nazim Uddin
 #### Full Stack Web Developer
-(https://arturssmirnovs.github.io/ghttps://i.ibb.co/3zR8jZ2/git-banner.jpgithub-profile-readme-generator/images/banner.png)
+![I am GitHub Readme Generator's creator](https://i.ibb.co/3zR8jZ2/git-banner.jpg)
 
 
 I'm a full-stack web developer(MERN) who is obsessed with creating error-free websites that satisfy every client. I'm passionate about learning and sharing what I've learned with as many people as possible. I am strategic, goal-oriented, and operate with the final objective in mind at all times. I'm familiar with front-end technologies like React JS, React Hooks, React Router, HTML CSS, Javascript, Bootstrap, Tailwind, Material UI, and others, as well as back-end technologies like Node JS, Express, Mongodb, and Firebase.
